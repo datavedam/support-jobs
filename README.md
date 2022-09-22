@@ -16,7 +16,7 @@ pip install --upgrade pip
 
 Install snowflake package
 ```bash
-conda install snowflake-connector-pytho
+conda install snowflake-connector-python
 
 ```
 
